@@ -155,10 +155,8 @@ export default function Home() {
         <div className="max-w-5xl mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <div className="w-8 h-8 rounded-md bg-neutral-900 flex items-center justify-center">
-                <Shield className="h-4 w-4 text-white" />
-              </div>
-              <span className="text-lg font-semibold text-neutral-900">TruFake</span>
+              
+              <span className="text-lg font-semibold text-neutral-900"><strong>TruFake.</strong></span>
             </div>
             <div className="flex items-center gap-4">
               {history.length > 0 && (
@@ -371,10 +369,8 @@ export default function Home() {
         <div className="max-w-5xl mx-auto px-6 py-8">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
-              <div className="w-6 h-6 rounded bg-neutral-900 flex items-center justify-center">
-                <Shield className="h-3 w-3 text-white" />
-              </div>
-              <span className="text-sm font-medium text-neutral-900">TruFake</span>
+              
+              <span className="text-lg font-semibold text-neutral-900"><strong>TruFake.</strong></span>
             </div>
             <div className="flex items-center gap-4">
               {history.length > 0 && (
