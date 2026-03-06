@@ -1,6 +1,5 @@
 # TruFake - Fake Product Review Detector
 
-![TruFake Logo](public/logo.png)
 
 ## 📖 Overview
 
